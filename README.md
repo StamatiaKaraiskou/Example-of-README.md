@@ -1,2 +1,1 @@
-# Example-of-README.md
-ASKHSH GIA SEMINARIO 
+# Example of README.md
